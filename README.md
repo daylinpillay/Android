@@ -1,4 +1,4 @@
-Tweedy Bird
+Traffic Twitter
 ===========
 
-A simple Twitter client.  Ain't She Tweet.
+A simple Traffic Twitter.  
